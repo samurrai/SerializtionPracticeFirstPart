@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\SerializationPractice.exe.config
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\SerializationPractice.exe
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\SerializationPractice.pdb
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\obj\Debug\SerializationPractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\obj\Debug\SerializationPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\obj\Debug\SerializationPractice.exe
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\obj\Debug\SerializationPractice.pdb
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\SerializationPractice\SerializationPractice\obj\Debug\SerializationPractice.csproj.CopyComplete
